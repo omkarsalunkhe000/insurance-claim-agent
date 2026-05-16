@@ -1,0 +1,12 @@
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-openai
+langchain-community
+streamlit
+python-dotenv
+pydantic
+pypdf
+pillow
+faiss-cpu
+pandas
+python-multipart
